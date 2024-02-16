@@ -8,7 +8,7 @@ TODO.
 
 # Attributions
 
-- [ETVR](https://github.com/EyeTrackVR) for the leap.onnx model
+- [EyeTrackVR](https://github.com/EyeTrackVR) for the leap.onnx model
 - [jaantollander/OneEuroFilter](https://github.com/jaantollander/OneEuroFilter) for the EuroFilter mathematics
 - [kaoskorobase/oscpp](https://github.com/kaoskorobase/oscpp) for the OSC message builder
 
